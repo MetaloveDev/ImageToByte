@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ImageToByte/1.0.0": {
+        "runtime": {
+          "ImageToByte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageToByte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
